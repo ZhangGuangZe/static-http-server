@@ -56,5 +56,5 @@ HTTP 缓存控制可以将网络资源缓存起来，这样能大大节省带宽
 
 - [相关示例](./http-compression.js)
 
-本项目基于掘金小册[从前端到全栈]（https://juejin.cn/book/7133100888566005763?scrollMenuIndex=0）实现。
+本项目基于掘金小册[从前端到全栈](https://juejin.cn/book/7133100888566005763?scrollMenuIndex=0)实现。
 
